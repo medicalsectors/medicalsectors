@@ -1,5 +1,4 @@
-## Hi there 👋
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/598887245906182174)](https://discord.com/users/598887245906182174)
 <!--
 **medicalsectors/medicalsectors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
